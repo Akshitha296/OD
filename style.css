@@ -1,0 +1,46 @@
+h1{
+    color: #EA9087
+}
+
+.linkies a{
+    color: #EFAF96
+}
+
+body{
+    background-color:#BBEBFF
+}
+
+.t{
+    display: flex;
+}
+
+.tt li{
+    color: #9D98AE
+}
+
+.tb li{
+    color: #9D98AE
+}
+
+img{
+    border: 5px solid #555555;
+    border-radius: 25%;
+}
+
+.hS{
+    display: flex;
+    margin-left: 525px;
+    justify-content: space-between;
+}
+
+.linkies{
+    display: flex;
+}
+
+a:link{
+    color: #B5696B;
+}
+
+a:visited{
+    color: #1B191A;
+}
